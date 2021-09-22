@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Open Bank Test</string>
+    <string name="characters_title">Personajes</string>
+    <string name="character_detail_title">Detalle</string>
+    <string name="something_wrong">Algo fue mal</string>
+    <string name="empty_description">Empty description</string>
+    <string name="empty_name">Empty name</string>
+</resources>
